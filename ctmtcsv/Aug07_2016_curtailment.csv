@@ -1,0 +1,14 @@
+,DATE,HOUR,CURT TYPE,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+0,08/07,7,Economic,Local,WIND,19,75.0
+1,08/07,8,Economic,Local,WIND,1,
+2,08/07,8,Economic,System,SOLR,202,564.0
+3,08/07,8,Economic,System,WIND,79,231.0
+4,08/07,9,Economic,System,SOLR,598,951.0
+5,08/07,9,Economic,System,WIND,113,157.0
+6,08/07,10,Economic,System,SOLR,387,643.0
+7,08/07,10,Economic,System,WIND,40,71.0
+8,08/07,11,Economic,System,SOLR,2,12.0
+9,08/07,11,Economic,System,WIND,1,9.0
+10,08/07,20,Economic,System,SOLR,14,29.0
+11,08/07,22,Economic,Local,WIND,5,51.0
+12,08/07,24,Economic,System,WIND,1,11.0

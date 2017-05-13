@@ -1,0 +1,2 @@
+
+numpy.loadtxt(open("test.csv", "rb"), delimiter=",", skiprows=1)
